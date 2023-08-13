@@ -2,6 +2,7 @@
 HostedLink:<br>
 https://yadnika10.github.io/Coffee_house/
 <br>
+![1](https://github.com/yadnika10/Coffee_house/assets/122971264/da1e9fd5-adcc-49d0-bc23-279641dd9456)
 ![1](https://github.com/yadnika10/Coffee_house/assets/122971264/2a063408-1ec5-4ef6-8c60-d9389ac5dc6c)
 1.Used one nav tag for the search bar and background to that.<br>
 2.Styled the Input tag and nav tag using background color and linear gradient and box-shadow and some of the properties like:<br>
